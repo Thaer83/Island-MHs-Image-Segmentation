@@ -1,0 +1,20 @@
+MCSA1 (good results)
+* Standard CSA plus ....
+* The random movement equation is replaced with Eq 1 in HHO (Average swarm)
+* Static parameters (AP = 0.01 , fl = 2 )
+
+TCSA  (good results)
+* Standard CSA plus
+* Adaptive tournament 
+* Static parameters (AP = 0.01 , fl = 2 )
+
+MCSA2    (results are not good)
+* Standard CSA plus ....
+* Dynamic (Adaptive) AP
+* Static parameters (fl = 2 )
+
+
+MCSA3    (not good)
+* Standard CSA plus ....
+* AP = 0.01
+* fl randomly decresed from -2 to 2 (same as WOA and GWO)
